@@ -71,7 +71,7 @@ function FeedbackForm() {
           <div className={styles.formCard}>
             <div className={styles.header}>
               {/* <p className={styles.topText}>Employee Review Portal</p> */}
-              <h1 className={styles.heading}>Feedback Form</h1>
+              <h1 className={styles.heading}>Employee Feedback Form</h1>
               <p className={styles.subheading}>
                 Share your experience and help us improve.
               </p>
